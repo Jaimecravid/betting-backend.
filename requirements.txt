@@ -1,7 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pandas
-scikit-learn
-lightgbm
-joblib
-pyyaml
+scipy
+python-multipart
